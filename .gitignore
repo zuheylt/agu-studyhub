@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+dist/
+.vercel/
+.env
+.env*.local
+.DS_Store
+*.log
+
+# Course materials must never be committed (see README)
+materials/
+*.pptx
+*.ppt
+*.mp4
+*.mov
